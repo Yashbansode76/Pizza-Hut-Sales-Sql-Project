@@ -4,11 +4,9 @@ This project explores Pizza Hut sales data using SQL queries to extract meaningf
 ## Objective
 The objective of this project is to analyze Pizza Hut’s sales data using SQL queries to extract meaningful insights. The analysis focuses on sales performance, customer ordering patterns, product trends, and revenue contribution to support data-driven decision-making.
 
-## Dataset Used: 
-
-
 ## Excel Report
-<img width="1270" height="708" alt="Pizza Hut Sales Report" src="https://github.com/user-attachments/assets/4e2fc298-2fb3-4999-b710-62da7311d7ea" />
+<img width="1270" height="708" alt="Pizza Hut Sales Report" src="https://github.com/user-attachments/assets/4e2fc298-2fb3-4999-b710-62da7311d7ea"/>
+
 
 ## Business Questions
 1. Retrieve the total number of orders placed.
