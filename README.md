@@ -22,6 +22,7 @@ The objective of this project is to analyze Pizza Hut’s sales data using SQL q
 11. Calculate the percentage contribution of each pizza type to total revenue.
 12. Track cumulative revenue generated over time.
 13. Identify top 3 pizzas by revenue for each category.
+    
 
 ## Insights
 • Total revenue and order volume trends provided an overview of sales performance.
