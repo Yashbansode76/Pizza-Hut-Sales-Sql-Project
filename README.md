@@ -24,21 +24,21 @@ The objective of this project is to analyze Pizza Hut’s sales data using SQL q
 13. Identify top 3 pizzas by revenue for each category.
     
 ## Insights
-•  Total revenue and order volume trends provided an overview of sales performance.
-•  The most popular pizza size was identified as the most frequently ordered by customers.
-•  Top 5 pizzas contributed significantly to overall sales.
-•  Certain pizza categories dominated both in terms of quantity and revenue.
-•  Evening hours recorded higher order frequency compared to other times of the day.
-•  A few premium pizzas generated the highest revenue despite lower order counts.
-•  Cumulative revenue analysis highlighted consistent business growth.
+1. Total revenue and order volume trends provided an overview of sales performance.
+2. The most popular pizza size was identified as the most frequently ordered by customers.
+3. Top 5 pizzas contributed significantly to overall sales.
+4. Certain pizza categories dominated both in terms of quantity and revenue.
+5. Evening hours recorded higher order frequency compared to other times of the day.
+6. A few premium pizzas generated the highest revenue despite lower order counts.
+7. Cumulative revenue analysis highlighted consistent business growth.
 
 ## Process
-•  Loaded and explored the raw Pizza Hut sales dataset.
-•  Executed SQL queries for data cleaning, joining tables, and performing analysis.
-•  Applied aggregate functions to calculate revenue, order counts, and category-wise performance.
-•  Extracted key business KPIs such as top-selling pizzas, order distribution by time, and revenue contribution.
-•  Developed queries for trend analysis including daily averages and cumulative revenue.
-•  Validated and cross-checked results to ensure data accuracy and reliability.
+1. Loaded and explored the raw Pizza Hut sales dataset.
+2. Executed SQL queries for data cleaning, joining tables, and performing analysis.
+3.  Applied aggregate functions to calculate revenue, order counts, and category-wise performance.
+4.  xtracted key business KPIs such as top-selling pizzas, order distribution by time, and revenue contribution.
+6.  eveloped queries for trend analysis including daily averages and cumulative revenue.
+7.  alidated and cross-checked results to ensure data accuracy and reliability.
 
 ## Conclusion
 The Pizza Hut Sales Insights Project demonstrates how SQL can be leveraged to transform raw transactional data into actionable business insights. By analyzing revenue drivers, customer preferences, order timings, and product performance, the project helps identify growth opportunities and optimize sales strategies. This project highlights the practical use of SQL queries in data analysis and decision-making.
